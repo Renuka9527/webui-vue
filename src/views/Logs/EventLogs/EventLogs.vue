@@ -342,6 +342,7 @@ export default {
     // Hide loader if the user navigates to another page
     // before request is fulfilled.
     this.hideLoader();
+    //testing
     next();
   },
   data() {
